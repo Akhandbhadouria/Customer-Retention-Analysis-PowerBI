@@ -123,4 +123,4 @@ If you find this project useful or have suggestions for improvement, feel free t
 
 ---
 
-**Author:** *[Your Name]*  
+**Author:** *[Akhand Pratap Singh]*  
